@@ -16,7 +16,7 @@
   "dependencies": {
     "axios": "^0.17.1",
     "express-generator": "^4.15.5",
-    "jquery": "^3.2.1",
+    "jquery": "^3.5.0",
     "toastr": "^2.1.2",
     "vee-validate": "^2.0.0-rc.25",
     "vue": "^2.5.2",
